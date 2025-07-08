@@ -116,6 +116,12 @@ You can view them in the shell:
 
 Command> profiles
 Command> history
+
+You can upload or download or run codes in shell:
+
+Command> download
+Command> upload
+Command> run
 ```
 
 
